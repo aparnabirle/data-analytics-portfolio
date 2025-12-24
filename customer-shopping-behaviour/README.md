@@ -7,7 +7,7 @@
 **Tech Stack:**
 - Data Preparation: Python (pandas)
 - Analytics: SQL Server (CTEs, window functions)
-- Visualization: Power BI (3-page interactive dashboards)
+- Visualisation: Power BI (4-page interactive dashboards)
 - Presentations: Gamma AI → Google Slides → Video
 
 **Dataset:** 3,900 customer transactions (18 attributes)
@@ -36,20 +36,16 @@
 - **[View Queries](./customer.sql)**
 
 ### Power BI - Interactive Dashboards
-- **[Download Dashboard](./Customer\ Behaviour\ Dashboard.pbix)**
+Dashboard includes Home page with navigation to 3 analysis pages:
+- **Home** - Project overview with navigation
+- **Executive Overview** - KPIs, revenue metrics
+- **Customer Behaviour** - Demographics, patterns
+- **Marketing & Retention** - Discounts, subscriptions
 
-**Dashboard Navigation:**
+📥 **[Download Power BI Dashboard](https://drive.google.com/file/d/1ssUXDoD08QnqZbav4bPdnlSltC-HMcx0/view?usp=drive_link)** (Google Drive)
 
-The Power BI dashboard includes a Home page with navigation to 3 main analysis pages:
-
-- **Home** - Project overview with navigation links
-- **Executive Overview** - KPIs, revenue by location, age, category, season
-- **Customer Behaviour** - Demographics, purchase patterns, payment methods
-- **Marketing & Retention** - Discount impact, subscription analysis, shipping insights
-
-**Dashboard Screenshots:**
-
-![Home](./dashboard-screenshots/home.png)
+**Dashboard Preview:**
+![Home](./dashboard-home.png)
 ![Executive Overview](./dashboard-screenshots/executive-overview.png)
 ![Customer Behaviour](./dashboard-screenshots/customer-behaviour.png)
 ![Marketing & Retention](./dashboard-screenshots/marketing-retention.png)
@@ -61,19 +57,19 @@ The Power BI dashboard includes a Home page with navigation to 3 main analysis p
 | Insight | Finding |
 |---------|---------|
 | Revenue by Gender | Male: $157.9K (68%), Female: $75.2K (32%) |
-| Top Products | Blouse, Jewelry, Pants |
+| Top Products | Blouse, Jewellery, Pants |
 | Discount Impact | Used on 863 high-value orders, minimal AOV uplift |
-| Subscription | 27.5% penetrated, no spend difference vs non-subscribers |
+| Subscription | 27.5% penetrated, no spend difference |
 | Repeat Buyers | 2,518 loyal customers (>5 purchases) not subscribed |
 
 ---
 
 ## Recommendations
 
-✅ **Revenue Growth:** Age-targeted campaigns, female funnel optimization  
+✅ **Revenue Growth:** Age-targeted campaigns, female funnel optimisation  
 ✅ **Discount Strategy:** Threshold-based discounts, protect high-margin items  
-✅ **Subscription:** Position as loyalty program, convert repeat buyers  
-✅ **Operations:** Bundle shipping with subscription, optimize digital payments  
+✅ **Subscription:** Position as a loyalty program, convert repeat buyers  
+✅ **Operations:** Bundle shipping with subscription, optimise digital payments  
 
 ---
 
@@ -85,20 +81,27 @@ The Power BI dashboard includes a Home page with navigation to 3 main analysis p
 2. Google Slides refinement + speaker notes
 3. Convert to MP4 video for async sharing
 
+📺 **[Watch Presentation Video](https://drive.google.com/file/d/1S1kUmlECiUGa1SKLEjU81ObbAmVsBFDM/view?usp=drive_link)**
+
 [Complete Methodology](./PRESENTATION_WORKFLOW.md)
 
 ---
 
-## 📁 Project Files
+## 📁 Project Files on GitHub
 
 | File | Purpose |
 |------|---------|
 | [customer_shopping_behavior.csv](./customer_shopping_behavior.csv) | Full dataset (3,900 rows) |
 | [Customer_Behaviour.ipynb](./Customer_Behaviour.ipynb) | Python data cleaning & analysis |
 | [customer.sql](./customer.sql) | 10 SQL business queries |
-| [Customer Behaviour Dashboard.pbix](./Customer\ Behaviour\ Dashboard.pbix) | Power BI interactive dashboard with Home page |
-| [Customer Behaviour Video.mp4](./Customer\ Behaviour\ Video.mp4) | Presentation video |
-| [PRESENTATION_WORKFLOW.md](./PRESENTATION_WORKFLOW.md) | How to create video presentations |
+| [PRESENTATION_WORKFLOW.md](./PRESENTATION_WORKFLOW.md) | How to create presentations |
+
+## 📥 External Files
+
+| File | Link | Purpose |
+|------|------|---------|
+| Customer Behaviour Dashboard.pbix | [Google Drive](https://drive.google.com/file/d/1ssUXDoD08QnqZbav4bPdnlSltC-HMcx0/view?usp=drive_link) | Power BI dashboard |
+| Customer Behaviour Video.mp4 | [Google Drive](https://drive.google.com/file/d/1S1kUmlECiUGa1SKLEjU81ObbAmVsBFDM/view?usp=drive_link) | Presentation video |
 
 ---
 
@@ -106,10 +109,12 @@ The Power BI dashboard includes a Home page with navigation to 3 main analysis p
 
 1. **View Analysis:** Open [Customer_Behaviour.ipynb](./Customer_Behaviour.ipynb)
 2. **Run Queries:** Execute [customer.sql](./customer.sql) on SQL Server
-3. **Explore Dashboard:** Download and open [Customer Behaviour Dashboard.pbix](./Customer\ Behaviour\ Dashboard.pbix)
-   - Start from Home page for project overview
-   - Use navigation to explore each analysis page
-4. **Watch Summary:** View [Customer Behaviour Video.mp4](./Customer\ Behaviour\ Video.mp4)
+3. **Explore Dashboard:** 
+   - Download from [Google Drive](https://drive.google.com/file/d/1ssUXDoD08QnqZbav4bPdnlSltC-HMcx0/view?usp=drive_link)
+   - Open in Power BI Desktop
+   - Start from the Home page for navigation
+4. **Watch Summary:** 
+   - View on [Google Drive](https://drive.google.com/file/d/1S1kUmlECiUGa1SKLEjU81ObbAmVsBFDM/view?usp=drive_link) from Google Drive
 
 ---
 
