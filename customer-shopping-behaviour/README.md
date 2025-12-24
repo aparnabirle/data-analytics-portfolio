@@ -40,7 +40,7 @@ Help retail leadership understand who drives revenue, how effective discounts an
   - `purchase_frequency_days`: Numeric mapping of frequency text (Weekly, Fortnightly, etc.)
 - Cleaned column names and dropped redundant `promo_code_used`
 
-**Notebook:** `notebooks/Customer_Behaviour.ipynb`
+**Notebook:** `Customer_Behaviour.ipynb`
 
 ---
 
@@ -58,7 +58,7 @@ Help retail leadership understand who drives revenue, how effective discounts an
 9. Repeat buyers and subscription status
 10. Revenue contribution by age group
 
-**File:** `sql/customer_behaviour_analysis.sql`
+**File:** `customer.sql`
 
 ---
 
@@ -83,7 +83,7 @@ Help retail leadership understand who drives revenue, how effective discounts an
 - Average Order Value by Discount
 - Shipping & Retention Analysis
 
-**PDF Export:** `reports/Customer-Behaviour-Dashboard.pdf`
+**Power BI Report:** `Customer Behaviour Dashboard.pbix`
 
 ---
 
