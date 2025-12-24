@@ -50,12 +50,5 @@ Each project starts from raw data and ends with business insights, actionable re
 ## Connect
 
 - GitHub: [@aparnabirle](https://github.com/aparnabirle)
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: [@aparnabirle](https://www.linkedin.com/in/aparnabirle/)
 
----
-
-## License
-
-MIT License. See LICENSE for details.
-
-**Last Updated:** December 2025
