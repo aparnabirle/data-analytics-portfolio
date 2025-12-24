@@ -5,10 +5,12 @@
 **Goal:**  
 Help retail leadership understand who drives revenue, how effective discounts and subscriptions are, and how to better target marketing and operations.
 
-**Tech Stack:**
-- Python (pandas) - Data cleaning & feature engineering
-- SQL Server - Data modeling and business queries
-- Power BI - Interactive dashboards and storytelling
+**End-to-End Tech Stack:**
+- Data Preparation: Python (pandas, NumPy)
+- Analytics & Querying: SQL Server (CTEs, window functions, aggregations)
+- Visualization & BI: Power BI (3-page interactive dashboards)
+- AI-Enhanced Presentations: Gamma (automatic slide generation from insights)
+- Stakeholder Communication: Google Slides (speaker notes, video conversion for async sharing)
 
 **Dataset:**  
 ~3,900 customer transactions including:
@@ -132,29 +134,6 @@ Help retail leadership understand who drives revenue, how effective discounts an
 
 ---
 
-## 8. Files in This Folder
-
-```
-customer-shopping-behaviour/
-├── data/
-│   └── (CSV or sample data)
-├── notebooks/
-│   └── Customer_Behaviour.ipynb
-├── sql/
-│   └── customer_behaviour_analysis.sql
-├── reports/
-│   ├── Customer-Behaviour-Dashboard.pdf
-│   └── Customer_Behaviour_Presentation.pptx
-├── dashboards/
-│   └── screenshots/
-│       ├── executive-overview.png
-│       ├── customer-behaviour.png
-│       └── marketing-retention.png
-└── README.md (this file)
-```
-
----
-
 ## 9. How to Use
 
 1. **Run Python notebook:** Load and transform raw CSV data
@@ -166,7 +145,7 @@ customer-shopping-behaviour/
 
 ## 10. Next Steps
 
-- Implement discount optimization experiments
+- Implement discount optimisation experiments
 - Launch subscription conversion campaign for repeat buyers
 - Monitor new KPIs (Discounted Revenue %, Revenue per Subscriber)
 - Extend data model to include time-series for trend analysis
