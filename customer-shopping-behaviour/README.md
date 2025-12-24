@@ -28,23 +28,31 @@
 ### Python - Data Preparation
 - Cleaned missing values (37 in review_rating)
 - Feature engineering: age_group, purchase_frequency_days
-- [View: `Customer_Behaviour.ipynb`]
+- **[View Code](./Customer_Behaviour.ipynb)**
 
 ### SQL - Business Queries
 - 10 analytical queries (revenue, discounts, products, segments)
 - CTEs, window functions, aggregations
-- [View: `customer.sql`]
+- **[View Queries](./customer.sql)**
 
 ### Power BI - Interactive Dashboards
+- **[Download Dashboard](./Customer\ Behaviour\ Dashboard.pbix)**
 
-**Page 1: Executive Overview**
-![Executive Overview](dashboard-screenshots/executive-overview.png)
+**Dashboard Navigation:**
 
-**Page 2: Customer Behaviour**
-![Customer Behaviour](dashboard-screenshots/customer-behaviour.png)
+The Power BI dashboard includes a Home page with navigation to 3 main analysis pages:
 
-**Page 3: Marketing & Retention**
-![Marketing & Retention](dashboard-screenshots/marketing-retention.png)
+- **Home** - Project overview with navigation links
+- **Executive Overview** - KPIs, revenue by location, age, category, season
+- **Customer Behaviour** - Demographics, purchase patterns, payment methods
+- **Marketing & Retention** - Discount impact, subscription analysis, shipping insights
+
+**Dashboard Screenshots:**
+
+![Home](./dashboard-screenshots/home.png)
+![Executive Overview](./dashboard-screenshots/executive-overview.png)
+![Customer Behaviour](./dashboard-screenshots/customer-behaviour.png)
+![Marketing & Retention](./dashboard-screenshots/marketing-retention.png)
 
 ---
 
@@ -77,26 +85,31 @@
 2. Google Slides refinement + speaker notes
 3. Convert to MP4 video for async sharing
 
-[See: `PRESENTATION_WORKFLOW.md` for complete methodology]
+[Complete Methodology](./PRESENTATION_WORKFLOW.md)
 
 ---
 
-## Files
+## 📁 Project Files
 
-- `customer_shopping_behavior.csv` - Full dataset
-- `Customer_Behaviour.ipynb` - Python analysis
-- `customer.sql` - SQL queries
-- `Customer Behaviour Dashboard.pbix` - Power BI
-- `Customer Behaviour Video.mp4` - Presentation video
+| File | Purpose |
+|------|---------|
+| [customer_shopping_behavior.csv](./customer_shopping_behavior.csv) | Full dataset (3,900 rows) |
+| [Customer_Behaviour.ipynb](./Customer_Behaviour.ipynb) | Python data cleaning & analysis |
+| [customer.sql](./customer.sql) | 10 SQL business queries |
+| [Customer Behaviour Dashboard.pbix](./Customer\ Behaviour\ Dashboard.pbix) | Power BI interactive dashboard with Home page |
+| [Customer Behaviour Video.mp4](./Customer\ Behaviour\ Video.mp4) | Presentation video |
+| [PRESENTATION_WORKFLOW.md](./PRESENTATION_WORKFLOW.md) | How to create video presentations |
 
 ---
 
 ## How to Use
 
-1. Run Python notebook to clean data
-2. Execute SQL queries on your database
-3. Open Power BI dashboard
-4. Watch video for executive summary
+1. **View Analysis:** Open [Customer_Behaviour.ipynb](./Customer_Behaviour.ipynb)
+2. **Run Queries:** Execute [customer.sql](./customer.sql) on SQL Server
+3. **Explore Dashboard:** Download and open [Customer Behaviour Dashboard.pbix](./Customer\ Behaviour\ Dashboard.pbix)
+   - Start from Home page for project overview
+   - Use navigation to explore each analysis page
+4. **Watch Summary:** View [Customer Behaviour Video.mp4](./Customer\ Behaviour\ Video.mp4)
 
 ---
 
