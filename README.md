@@ -21,7 +21,7 @@ Each project starts from raw data and ends with business insights, actionable re
 
 **Key Deliverables:**
 - 10 business-focused SQL queries
-- 3-page Power BI dashboard
+- 4-page Power BI dashboard
 - Business recommendations
 
 **Folder:** [`customer-shopping-behaviour/`](./customer-shopping-behaviour)
