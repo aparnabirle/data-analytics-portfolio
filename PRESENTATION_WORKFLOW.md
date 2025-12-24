@@ -189,4 +189,4 @@ customer-shopping-behaviour/
 
 **Last Updated:** December 2025
 
-**Author:** Aparna Birle (Senior Data Analyst)
+**Author:** Aparna Birle
