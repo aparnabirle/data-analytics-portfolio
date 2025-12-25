@@ -45,10 +45,10 @@ Dashboard includes Home page with navigation to 3 analysis pages:
 📥 **[Download Power BI Dashboard](https://drive.google.com/file/d/1ssUXDoD08QnqZbav4bPdnlSltC-HMcx0/view?usp=drive_link)** (Google Drive)
 
 **Dashboard Preview:**
-![Home](./dashboard-home.png)
-![Executive Overview](./dashboard-screenshots/executive-overview.png)
-![Customer Behaviour](./dashboard-screenshots/customer-behaviour.png)
-![Marketing & Retention](./dashboard-screenshots/marketing-retention.png)
+![Home](./home.png)
+![Executive Overview](./executive.png)
+![Customer Behaviour](./behaviour.png)
+![Marketing & Retention](./marketing.png)
 
 ---
 
