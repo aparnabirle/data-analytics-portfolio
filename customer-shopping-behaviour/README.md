@@ -114,7 +114,7 @@ Dashboard includes Home page with navigation to 3 analysis pages:
    - Open in Power BI Desktop
    - Start from the Home page for navigation
 4. **Watch Summary:** 
-   - View on [Google Drive](https://drive.google.com/file/d/1S1kUmlECiUGa1SKLEjU81ObbAmVsBFDM/view?usp=drive_link) from Google Drive
+   - View [Here](https://drive.google.com/file/d/1S1kUmlECiUGa1SKLEjU81ObbAmVsBFDM/view?usp=drive_link) from Google Drive
 
 ---
 
