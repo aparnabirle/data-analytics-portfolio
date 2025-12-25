@@ -36,7 +36,7 @@
 - **[View Queries](./customer.sql)**
 
 ### Power BI - Interactive Dashboards
-Dashboard includes Home page with navigation to 3 analysis pages:
+Dashboard includes the Home page with navigation to 3 analysis pages:
 - **Home** - Project overview with navigation
 - **Executive Overview** - KPIs, revenue metrics
 - **Customer Behaviour** - Demographics, patterns
@@ -83,7 +83,6 @@ Dashboard includes Home page with navigation to 3 analysis pages:
 
 📺 **[Watch Presentation Video](https://drive.google.com/file/d/1S1kUmlECiUGa1SKLEjU81ObbAmVsBFDM/view?usp=drive_link)**
 
-[Complete Methodology](./PRESENTATION_WORKFLOW.md)
 
 ---
 
@@ -94,7 +93,6 @@ Dashboard includes Home page with navigation to 3 analysis pages:
 | [customer_shopping_behavior.csv](./customer_shopping_behavior.csv) | Full dataset (3,900 rows) |
 | [Customer_Behaviour.ipynb](./Customer_Behaviour.ipynb) | Python data cleaning & analysis |
 | [customer.sql](./customer.sql) | 10 SQL business queries |
-| [PRESENTATION_WORKFLOW.md](./PRESENTATION_WORKFLOW.md) | How to create presentations |
 
 ## 📥 External Files
 
