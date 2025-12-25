@@ -1,4 +1,4 @@
-PRESENTATION_WORKFLOW.md# Presentation Workflow: From Analysis to Video
+# Presentation Workflow: From Analysis to Video
 
 ## Overview
 
